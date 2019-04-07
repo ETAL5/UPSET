@@ -1,0 +1,12 @@
+{
+	"file": "https://raw.githubusercontent.com/ETAL5/UPSET/master/prova.csv",
+	"name": "provaupset",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"sets": [
+		{ "format": "binary", "start": 2, "end": 5 }
+	],
+    "author": "ETAL5",
+    "description": "provaupset"
+}
